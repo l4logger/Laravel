@@ -1,0 +1,11 @@
+{
+    "name": "l4logger/laravel",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Abdul Qadir",
+            "email": "abdulqadirshaikh101@gmail.com"
+        }
+    ],
+    "require": {}
+}
