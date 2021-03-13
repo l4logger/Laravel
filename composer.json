@@ -1,5 +1,6 @@
 {
     "name": "l4logger/laravel",
+    "version":"1.0",
     "type": "composer-plugin",
     "authors": [
         {

@@ -22,7 +22,7 @@ class Handler extends AbstractProcessingHandler{
            'app_name'         => config('app.name'),
            'app_env'          => config('app.env'),
            'app_url'          => config('app.url'),
-           'error_url'        => request()->url(),
+           'url'              => request()->url(),
            'post_data'        => \Request::post(),
            'get_data'         => \Request::post(),
            'session'          => session()->all(),
