@@ -1,5 +1,13 @@
 {
     "name": "l4logger/laravel",
+  	"description": "The Laravel Cloud Logging Package",
+  	"version": "1.0.3",
+  	"keywords": [
+	    "framework",
+	    "laravel",
+	    "logging",
+	    "log"
+	 ],
     "type": "composer-plugin",
     "authors": [
         {
