@@ -1,1 +1,1 @@
-# Laravel Logger
+# Log monitoring & exception reporter for Laravel

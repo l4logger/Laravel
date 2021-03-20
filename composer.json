@@ -1,7 +1,7 @@
 {
     "name": "l4logger/laravel",
-  	"description": "The Laravel Cloud Logging Package",
-  	"version": "1.0.3",
+  	"description": "Log monitoring & exception reporter for Laravel",
+  		"version": "1.0.3",
   	"keywords": [
 	    "framework",
 	    "laravel",
