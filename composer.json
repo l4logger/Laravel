@@ -1,19 +1,21 @@
 {
     "name": "l4logger/laravel",
-  	"description": "Log monitoring & exception reporter for Laravel",
-  		"version": "1.0.3",
-  	"keywords": [
-	    "framework",
-	    "laravel",
-	    "logging",
-	    "log"
-	 ],
+    "description": "Official L4Logger Log monitoring & exception reporter for Laravel",
+    "version": "1.0.3",
+    "homepage": "https://github.com/l4logger/laravel",
+    "license": "MIT",
+    "keywords": [
+        "l4logger",
+        "laravel",
+        "logging",
+        "log", "exceptions", "errors", "logging", "tracking"
+    ],
     "type": "composer-plugin",
     "authors": [
-        {
-            "name": "Abdul Qadir",
-            "email": "abdulqadirshaikh101@gmail.com"
-        }
-    ],
-    "require": {}
+    {
+        "name": "Abdul Qadir",
+        "email": "abdulqadirshaikh101@gmail.com"
+    }],
+    "require":
+    {}
 }
