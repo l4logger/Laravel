@@ -9,7 +9,6 @@
         "logging",
         "log", "exceptions", "errors", "logging", "tracking"
     ],
-    "type": "composer-plugin",
     "authors": [
     {
         "name": "Abdul Qadir",
