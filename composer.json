@@ -14,6 +14,12 @@
         "name": "Abdul Qadir",
         "email": "abdulqadirshaikh101@gmail.com"
     }],
-    "require":
-    {}
+    "require":{},
+    "autoload": {
+        "psr-4": {
+            "L4Logger\\Laravel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
