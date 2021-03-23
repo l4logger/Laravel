@@ -1,7 +1,6 @@
 {
     "name": "l4logger/laravel",
     "description": "Official L4Logger Log monitoring & exception reporter for Laravel",
-    "version": "1.0.4",
     "homepage": "https://github.com/l4logger/laravel",
     "license": "MIT",
     "keywords": [
