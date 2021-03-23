@@ -7,26 +7,28 @@
         "l4logger",
         "laravel",
         "logging",
-        "log", "exceptions", "errors", "logging", "tracking"
+        "log",
+        "exceptions",
+        "errors",
+        "logging",
+        "tracking"
     ],
     "authors": [
-    {
-        "name": "Abdul Qadir",
-        "email": "abdulqadirshaikh101@gmail.com"
-    }],
-    "require":
-    {},
-    "autoload":
-    {
-        "psr-4":
         {
+            "name": "Abdul Qadir",
+            "email": "abdulqadirshaikh101@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
             "L4Logger\\Laravel\\": "src/"
         }
     },
-    "autoload-dev":
-    {
-        "psr-4":
-        {
+    "autoload-dev": {
+        "psr-4": {
             "L4Logger\\Laravel\\": "src/",
             "Tests\\": "tests/"
         }
